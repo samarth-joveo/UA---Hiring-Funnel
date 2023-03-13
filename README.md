@@ -6,6 +6,6 @@
 Data from Looker : 
 ![image](https://user-images.githubusercontent.com/104884127/224623415-50213069-e5f9-4a86-9a79-aad9440c7a82.png)
 Format of the data flowing to looker visual : 
-</br>data = [
+</br>data = [</br>
   { 'clicks':{ 'value' : '1000' } , 'apply_start' : { 'value' : 100 } , 'applies' : { 'value' : 10 }, 'hires' : { 'value' : 1 }   }
-]
+</br>]
